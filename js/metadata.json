@@ -1,0 +1,31 @@
+{
+  "name": "Pikachu",
+  "description": "Pokemon",
+  "image": "https://drive.google.com/file/d/1r7oUPxWW3HhLInWmK3_mK7OdTUEeRRak/view?usp=share_link",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "OUTLINE",
+      "value": "Black"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "BODYSHADOW",
+      "value": "Dark Yellow"
+    },
+    {
+      "trait_type": "CHEEK",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Gray"
+    }
+  ]
+}
